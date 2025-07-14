@@ -2,7 +2,7 @@
 
 A showcase of my core systems code for **CrashBall**, a fast-paced multiplayer Roblox game.
 
-## File List (`src/systems/`)
+## File List (`/systems/`)
 
 - **Network.lua**  
   • RPC and event bindings for all client–server communication.  
